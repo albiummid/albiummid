@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [albi-portfolio.web.app](https://albi-portfolio.web.app)
 
+- 🚀 My last completed Project [S P E C T A](https://specta-web.web.app)
+
 - 💬 Ask me about **development things**
 
 - 📫 How to reach me **albi.ummid@gmail.com**
