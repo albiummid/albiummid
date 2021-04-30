@@ -8,9 +8,9 @@
 
 - 🚀 My last completed Project [S P E C T A](https://specta-web.web.app)
 
-- 💬 Ask me about **development things**
+- 💬 Ask me about everything that contains nothing :-D
 
-- 📫 How to reach me **albi.ummid@gmail.com**
+- 📫 Reach me at **albi.ummid@gmail.com**
 
 - 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1qvSCGTt4FP6iZj7VphOcQOL7WIyu-lke/view?usp=sharing)
 
