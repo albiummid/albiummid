@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albi Ummid Tanvir</h1>
 <h3 align="center">A passionate , frontend developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albiummid&label=Profile%20views&color=0e75b6&style=flat" alt="albiummid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albiummid" alt="albiummid" /></a> </p>
 
 - 🌱 I’m currently learning **everything😁**
 
@@ -13,7 +10,7 @@
 
 - 📫 How to reach me **albi.ummid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qvSCGTt4FP6iZj7VphOcQOL7WIyu-lke/view?usp=sharing](https://drive.google.com/file/d/1qvSCGTt4FP6iZj7VphOcQOL7WIyu-lke/view?usp=sharing)
+- 📄 Know about my experiences from [https://drive.google.com/file/d/1qvSCGTt4FP6iZj7VphOcQOL7WIyu-lke/view?usp=sharing](Resume)
 
 - ⚡ Fun fact **You are looking at my GitHub 🤣**
 
