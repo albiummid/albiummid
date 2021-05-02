@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **everything😁**
 
-- 👨‍💻 All of my projects are available at [albi-portfolio.web.app](https://albi-portfolio.web.app)
+- 👨‍💻 All of my projects are available at [albi-portfolio.web.app](https://albitanvir-portfolio.web.app)
 
 - 🚀 My last completed Project [S P E C T A](https://specta-web.web.app)
 
