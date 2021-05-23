@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albi Ummid Tanvir</h1>
 <h2 align="center">A passionate , MERN Stack Developer from Bangladesh.</h2>
 
-<p align="center">
 - 🌱 I’m currently learning **everything😁**
 
 - 👨‍💻 All of my projects are available at [albi.netlify.app](https://albi.netlify.app)
@@ -15,7 +14,6 @@
 - 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1qvSCGTt4FP6iZj7VphOcQOL7WIyu-lke/view?usp=sharing)
 
 - ⚡ Fun fact **You are looking at my GitHub 🤣**
-</p>
 
 <h3 align="center">Connect with me</h3>
 
