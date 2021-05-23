@@ -7,7 +7,7 @@
 
 - 🚀 My last completed Project [S P E C T A](https://specta-web.web.app)
 
-- 💬 Ask me about everything that contains nothing :-D
+- 💬 Ask me everything ^\_~
 
 - 📫 Reach me at **albi.ummid@gmail.com**
 
