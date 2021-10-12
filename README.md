@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Albi Ummid Tanvir</h1>
-<h2 align="center">A passionate , Front End Webdeveloper Developer from Bangladesh.</h2>
+<h2 align="center">A passionate , Full Stack Web Developer from Bangladesh.</h2>
 
 - 🌱 I’m currently learning **everything😁**
 
